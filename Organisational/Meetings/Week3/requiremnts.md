@@ -59,17 +59,15 @@ The proposed system is an automated scoring system that
 - Should include automated test cases for scoring logic
 
 ### 3.3.8 System Modifications
-- Future versions may incorporate more nuanced exposure models
-- Support for new REDCap data formats or additional metadata may be required.
-- Scoring rules may be updated based on future scientific findings.
+- Scoring rules may be updated in the future
 
 ### 3.3.9 Physical Environment
 - System will be used in a standard computing environment by research staff
 
 ### 3.3.10 Security Issues
-- Must comply with NDA and data sensitivity requirements.
-- No raw participant identifiers should be stored in outputs.
-- Source code is to remain closed and protected via private repository access.
+- Must comply with NDA and data sensitivity requirements
+- No participant identifiers should be stored in outputs
+- Source code must remain closed/ protected through private repository access
 
 ## 3.4 Constraints
 - Must be completed within a single university semester
