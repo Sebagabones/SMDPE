@@ -29,8 +29,7 @@ The proposed system is an automated scoring system that
 ### 3.3.1 User Interface and Human Factors
 - Users will include dietitians and researchers
 - No GUI is required (input/output will be CSVs)
-- Will use a simple command-line interface
-- Minimal training needed if documentation is clear
+- Simple command-line interface
 
 ### 3.3.2 Documentation
 - User guide (for the dietitians) explaining how to use the code. Will include input format, runnning it and interpreting the output
