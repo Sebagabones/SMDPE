@@ -1,0 +1,6 @@
+- Accept diet recall CSV
+- Extract eating occasions, food IDs and associated factors influencing plastic exposure 
+- Accurately replicate the existing scoring matrix results
+- Return a numeric, well structured CSV output
+- Provide both overall and per-meal plastic exposure scores
+- Apply weighting to plastic exposure events based on volume of food
